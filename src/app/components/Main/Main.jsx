@@ -33,7 +33,8 @@ function Main() {
       <h2>My Skills</h2>
       <p>HTML, CSS, React</p>
       
-      <a href="https://github.com">My GitHub</a>
+      <br/>
+      My GitHub at <a href="https://github.com/sugonyu/acs-wde2-exam3-app">https://github.com/sugonyu/acs-wde2-exam3-app</a>
       <br /><br />
 
       <button onClick={doIt} style={{ background: 'black', color: textColor, padding: '10px' }}>
