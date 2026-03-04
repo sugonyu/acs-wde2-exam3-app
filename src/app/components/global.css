@@ -1,0 +1,5 @@
+.global {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  /* border: 5px solid blue; */
+}
